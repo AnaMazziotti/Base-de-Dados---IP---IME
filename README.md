@@ -4,4 +4,4 @@ Este repositório foi criado com a finalidade de armazenar os datasets para test
 
 Alunas: Ana Lívia dos Santos Mazziotti e Luciana Soares da Silva
 
-Porfessor: Ivanildo Barbosa
+Professor: Ivanildo Barbosa
